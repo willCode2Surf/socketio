@@ -1,0 +1,8 @@
+{
+  "name": "socketio",
+  "version": "0.0.1",
+  "description": "basic socketio usage",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
